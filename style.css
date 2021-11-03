@@ -1,3 +1,10 @@
-.contenido{
-  background-color: yellow;
+.contenido 
+{
+  background-color: tomato;
+}
+.parrafo 
+{
+  text-align: center;
+  color:violet;
+  font-size: 50px;
 }
