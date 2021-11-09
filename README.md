@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/BnI0vBZ.png)
+![Imgur](https://i.imgur.com/HqQiVaH.png)
 Garbaget
 >Un fantastico lugar donde encontraras muchas historias
 > Puedes ver el sitio en:
