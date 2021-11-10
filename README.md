@@ -4,5 +4,5 @@ Garbaget
 > Puedes ver el sitio en:
 > - https://garbaget-11pnkqjfu-ccrhdbj-outlookcom.vercel.app/
 >
-![Imgur](https://i.imgur.com/0wnH8wD.png)
+![Imgur](https://c.tenor.com/g_jvzRTImI4AAAAd/wut.gif)
 ![Imgur](https://i.imgur.com/HqQiVaH.png)
